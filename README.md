@@ -1,4 +1,7 @@
 # ✋ Raise My Hand
+
+This is Foundry v12 version of Raise My Hand, cloned from [https://github.com/brunocalado/raise-my-hand-plus](https://github.com/brunocalado/raise-my-hand-plus)
+
 A player can click in the hand to request attention. There is also a X Button for X-Card by John Stavropoulos. 
 
 ## Raise my Hand Buttons
